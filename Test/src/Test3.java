@@ -3,7 +3,7 @@ public class Test3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("2번쨰입니다");
+		System.out.println("우리팀 천재만재");
 	}
 
 }
